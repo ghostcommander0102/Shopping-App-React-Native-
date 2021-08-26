@@ -1,0 +1,46 @@
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGOUT = 'LOGOUT';
+export const GET_PROFILE = 'GET_PROFILE';
+export const GET_PROFILES = 'GET_PROFILES';
+export const GET_REPOS = 'GET_REPOS';
+export const NO_REPOS = 'NO_REPOS';
+export const UPDATE_PROFILE = 'UPDATE_PROFILE';
+export const CLEAR_PROFILE = 'CLEAR_PROFILE';
+export const PROFILE_ERROR = 'PROFILE_ERROR';
+export const ACCOUNT_DELETED = 'ACCOUNT_DELETED';
+export const GET_POSTS = 'GET_POSTS';
+export const GET_POST = 'GET_POST';
+export const POST_ERROR = 'POST_ERROR';
+export const UPDATE_LIKES = 'UPDATE_LIKES';
+export const DELETE_POST = 'DELETE_POST';
+export const ADD_POST = 'ADD_POST';
+export const ADD_COMMENT = 'ADD_COMMENT';
+export const REMOVE_COMMENT = 'REMOVE_COMMENT';
+
+export const GET_CATEGORIES = 'GET_CATEGORIES';
+export const SET_CATEGORY = 'SET_CATEGORY';
+export const SET_SUBCATEGORIES = 'SET_SUBCATEGORIES';
+export const CLEAR_CATEGORY = 'CLEAR_CATEGORY';
+export const CATEGORY_ERROR = 'CATEGORY_ERROR';
+
+export const GET_PRODUCTS = 'GET_PRODUCTS';
+export const GET_RECENTPRODUCTS = 'GET_RECENTPRODUCTS';
+export const GET_PRODUCT = 'GET_PRODUCT';
+export const CLEAR_PRODUCT = 'CLEAR_PRODUCT';
+export const PRODUCT_ERROR = 'PRODUCT_ERROR';
+export const PRODUCT_LOADING = 'PRODUCT_LOADING';
+export const RECENT_PRODUCTS_LOADING = 'RECENT_PRODUCTS_LOADING';
+export const GET_ADS_PRODUCTS = 'GET_ADS_PRODUCTS';
+export const ADS_PRODUCTS_LOADING = 'ADS_PRODUCTS_LOADING';
+
+export const GET_MESSAGE = 'GET_MESSAGE';
+export const GET_MESSAGES = 'GET_MESSAGES';
+export const SEND_MESSAGE = 'SEND_MESSAGE';
+export const MESSAGE_ERROR = 'MESSAGE_ERROR';
